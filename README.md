@@ -4,7 +4,7 @@ controlado através de radio-controle de automodelo (transmissor tipo pistola e 
 
 Inclui Farol e lanterna traseira e também um display LCD para informarções diversas e nível da bateria.
 
-Projeto de conclusão de curso da Disciplina de Robótica Educacional oferecido Secretária de Educação
+Projeto de conclusão de curso da Disciplina de Robótica Educacional oferecido Secretaria de Educação
 do Distrito Federeal, ministrado pela Professora/Orientadora: Renata
  
 Desenvolvido por: Rodrigo Damaceno
